@@ -1,7 +1,5 @@
 # Loan-Credit-Card-Prediction
 
-# Financial Dataset Analysis & Predictive Modeling
-
 ## 📌 Project Overview  
 This project provides a **comprehensive analysis of a financial dataset**. The focus is on constructing a robust **basetable** for predictive modeling, applying systematic **data processing, feature engineering, and exploratory analysis** to extract insights.  
 
